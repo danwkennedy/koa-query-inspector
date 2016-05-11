@@ -1,6 +1,6 @@
 {
   "name": "koa-query-inspector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "KOA middleware for sanitizing/validating query string parameters",
   "main": "index.js",
   "scripts": {
