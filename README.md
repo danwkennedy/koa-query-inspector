@@ -40,7 +40,7 @@ app.get(*function() {
 
 ### Validation
 
-Call validate with an object defining the validation rules as specified by [schema-inspector](). By default, any validation errors will by thrown with a status of 400. To override this behavior, simply specify an onError handler that accepts a list of errors.
+Call validate with an object defining the validation rules as specified by [schema-inspector](https://github.com/Atinux/schema-inspector#sanitization). By default, any validation errors will by thrown with a status of 400. To override this behavior, simply specify an onError handler that accepts a list of errors.
 
 For example:
 ```
@@ -55,7 +55,7 @@ const rules = {
 
 app.use(validate(rules, onError));
 app.get(*function() {
-  console.log(this.query); // will default to the number 123
+  console.log(this.query);
 });
 
 function onError(errors) {
