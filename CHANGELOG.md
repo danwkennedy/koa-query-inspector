@@ -1,3 +1,13 @@
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/danwkennedy/koa-query-inspector/compare/1.1.0...v1.1.1) (2016-06-15)
+
+
+### Bug Fixes
+
+* **validate:** clone the query params on validate so they don't change from under the validator ([b6da29a](https://github.com/danwkennedy/koa-query-inspector/commit/b6da29a))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/danwkennedy/koa-query-inspector/compare/1.0.2...v1.1.0) (2016-05-12)
 
