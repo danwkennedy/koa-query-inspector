@@ -43,3 +43,13 @@
 
 
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/danwkennedy/koa-query-inspector/compare/1.1.1...v2.0.0) (2017-05-15)
+
+
+### Features
+
+* **middleware:** support Koa[@2](https://github.com/2).0.0+ ([2a90c72](https://github.com/danwkennedy/koa-query-inspector/commit/2a90c72))
+
+
+
