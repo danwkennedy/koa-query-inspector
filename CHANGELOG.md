@@ -53,3 +53,13 @@
 
 
 
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/danwkennedy/koa-query-inspector/compare/2.0.0...v3.0.0) (2017-06-20)
+
+
+### Features
+
+* **parameters:** make the output field configurable ([7fe12fb](https://github.com/danwkennedy/koa-query-inspector/commit/7fe12fb))
+
+
+
