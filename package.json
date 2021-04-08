@@ -34,6 +34,6 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "lodash": "^4.13.1",
-    "schema-inspector": "^1.6.4"
+    "schema-inspector": "^2.0.1"
   }
 }
